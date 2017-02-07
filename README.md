@@ -9,24 +9,28 @@ Where possible, avoid the need for users to upload something. Ask first:
 - is the information needed to deliver the service?
 - can the information come from an API or another government department? 
 
-Uploading is a challenging interaction for many users, particularly on desktop devices. It's somewhat easier on mobile devices, but still presents challenges. Users lower on the [digital literacy scale](#) will struggle and may not be able to use a service if they need to upload as part of it.
-
 Have users upload something only they can provide:
 
-- data they collect about they're service or business
-- photo of themselves, for example a passport
-- document from abroad, for example a marriage certificate
+- data they collect. For example financial accounts
+- photo of themselves. For example a passport
+- documents. For example a foreign marriage certificate
+
+Uploading is a challenging interaction for many users, particularly on desktop devices. It's somewhat easier on mobile devices, but still presents challenges. Users lower on the [digital literacy scale](#) will struggle and may not be able to use a service if they need to upload as part of it.
 
 ### Show what to upload
 
 - What makes a good photo
 - What makes a usable dataset 
+- Give examples for CVS 
 
-### Give options on what uploading
+### Make uploading flexible
 
-### Automatic checking 
+- how to upload
+- what to upload
 
-### 
+### Automatic checking and feedback errors
+
+
 
 ### Examples of upload a photo or data
 
