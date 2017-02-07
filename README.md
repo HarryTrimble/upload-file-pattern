@@ -6,7 +6,7 @@ This guide explains how to help users upload photos or data in a service
 
 Where possible, avoid the need for users to upload something. Ask first:
 
-- is the information needed to deliver the service?
+- is the information needed to deliver your service?
 - can the information come from an API or another government department? 
 
 Have users upload something only they can provide:
@@ -20,6 +20,8 @@ Uploading is a challenging interaction for many users, particularly on desktop d
 ### Show what to upload
 
 - What makes a good photo
+![alt text](/passport-photographs.png)
+
 - What makes a usable dataset 
 - Give examples for CVS 
 
